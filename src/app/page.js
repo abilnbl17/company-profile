@@ -18,7 +18,7 @@ export default function CompanyPage() {
       <Navbar />
         <Box>
 
-          <Box as='heroSection'>
+          <Box>
             <Center>
               <Text fontSize='6xl' position='absolute' marginTop='50%' color='white'> 
                 <Container as='B' align='center' >
@@ -30,8 +30,9 @@ export default function CompanyPage() {
           </Box>
 
           <Image
-            src='./chris-Kendall-.jpg'
+            src='./chris-kendall-.jpg'
             alt='Chris Kendall'
+
             /> 
             
             <Box   
