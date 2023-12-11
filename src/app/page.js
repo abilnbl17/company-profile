@@ -32,7 +32,6 @@ export default function CompanyPage() {
           <Image
             src='./chris-Kendall-.jpg'
             alt='Chris Kendall'
-            maxWeight='100%'
             /> 
             
             <Box   
