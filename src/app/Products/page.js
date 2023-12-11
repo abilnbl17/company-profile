@@ -22,7 +22,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                src='./tyler-nix-drink.jpg'
+                                src='/public/tyler-nix-energy drinks.jpg'
                                 alt='Tyler Nix Drink'
                                 />
                                 <Text> The flavor can provide a refreshing and sweet touch to the beverage </Text>
@@ -68,7 +68,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                    src='./jan-kopriva-drink.jpg'
+                                    src='/public/jan-kopriva-drink.jpg'
                                     alt='Jan Kopriva'
                                 />
                                 <Text> Red Bull contains a combination of active ingredients such as caffeine, taurine, and vitamin B that work together to boost energy levels and alertness. Caffeine, as a stimulant, helps reduce drowsiness and enhances focus. </Text>
@@ -91,7 +91,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                    src='./tord-romundstad-.png'
+                                    src='./tord-romundstad-.jpg'
                                     alt='Tord Romundstad Drink'
                                     />
                                 <Text> Monster Juiced offers a variety of different flavors, often featuring a blend of exotic fruits and refreshing tastes. Its strong aroma and distinctive flavor make it an enticing choice for those seeking a unique drinking experience. </Text>

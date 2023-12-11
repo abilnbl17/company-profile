@@ -85,7 +85,7 @@ export default function AboutPage(){
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                    src='./tord-romundstad-.png'
+                                    src='./tord-romundstad-.jpg'
                                     alt='Tord Romundstad Drink'
                                     />
                                 <Text> Monster Juiced offers a variety of different flavors, often featuring a blend of exotic fruits and refreshing tastes. Its strong aroma and distinctive flavor make it an enticing choice for those seeking a unique drinking experience. </Text>

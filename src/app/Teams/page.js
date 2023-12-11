@@ -10,14 +10,10 @@ export default function products() {
 
     return (
         <Providers>
-
             <Box>
-
                 <Navbar />
-            
-        <Teams />
+                <Teams />
                 <Footer />
-        
             </Box>
         </Providers>
     );

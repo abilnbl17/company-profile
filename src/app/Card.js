@@ -1,7 +1,7 @@
 "use client";
 
 import React from 'react';
-import { Box, Card, CardBody, Image, Link, Stack, Text, Heading } from '@chakra-ui/react'
+import { Card, CardBody, Image, Link, Stack, Text } from '@chakra-ui/react'
 
 export default function AboutEnergyOur (){
 
@@ -21,7 +21,7 @@ export default function AboutEnergyOur (){
                 <Image 
                     objectFit='cover'
                     maxW={{ base: '100%', sm: '300px' }}
-                    src='./tyler-nix-energy drinks.jpg'
+                    src='/public/tyler-nix-energy drinks.jpg'
                     alt='Energy Drinks'
                 
                 />
