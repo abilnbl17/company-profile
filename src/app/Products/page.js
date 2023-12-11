@@ -22,8 +22,8 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                src='./tyler-nix-energy-drinks.jpg'
-                                alt='Tyler Nix Drink'
+                                src='/public/riot-drink.jpg'
+                                alt='Riot Drink'
                                 />
                                 <Text> The flavor can provide a refreshing and sweet touch to the beverage </Text>
                                 <Text color='blue.600' fontSize='2xl'>
