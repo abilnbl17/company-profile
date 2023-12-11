@@ -1,9 +1,5 @@
 "use client";
 
-// import { ChakraProvider } from '@chakra-ui/react';
-// import { Space }  from './landing-style.css';
-// import style from './page.module.css';
-
 import { Box, ButtonGroup, Image } from '@chakra-ui/react';
 import { Button } from '@chakra-ui/react';
 import { Providers } from './provider';
@@ -68,7 +64,6 @@ export default function Navbar() {
 
           </ButtonGroup>
         </Box>
-      {/* </Center> */}
     </Providers>
   );
 }

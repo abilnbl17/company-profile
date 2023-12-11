@@ -35,10 +35,7 @@ export default function AboutEnergyOur (){
                                 The moderate caffeine content helps improve focus without causing... {' '}
                                     <Link color='teal.500' href='/About'>
                                         see more
-                                        {/* causing jitteriness or excessive fatigue. Some energy drinks also include vitamins and electrolytes, 
-                                        contributing to body balance and supporting metabolic functions. Popular among those engaged in sports, these drinks aid in performance enhancement and post-exercise recovery. 
-                                    Conveniently packaged, energy drinks offer an efficient solution for sustaining stamina throughout the day. Responsible consumption is emphasized to enjoy the positive benefits without compromising health and well-being. */}
-                                    </Link>
+                                       </Link>
                             </Text>
                     </CardBody>
                 </Stack>    
@@ -64,17 +61,13 @@ export default function AboutEnergyOur (){
                 />
                 <Stack>
                     <CardBody>
-                            {/* <Heading spacing='2'> */}
                         <Text> 
 
                                 The Energy Drink Company, established in 1985, emerged as a result of the vision of Thomas Green. 
                                 From its inception, the company committed itself to bringing ...
                             <Link color='teal.500' href='/About'>
                                 see more
-                                {/* innovation to the energy drink industry by offering 
-                                high-quality products that are not only refreshing but also provide an unparalleled energy boost. 
-                                Over the years, the company has experienced rapid growth and has become one of the leaders in the energy drink industry. */}
-                            {/* </Heading> */}
+                              
                             </Link>
                         </Text>
 

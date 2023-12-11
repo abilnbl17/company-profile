@@ -1,8 +1,6 @@
 'use client';
 
 import { Box, Breadcrumb, BreadcrumbItem, BreadcrumbLink, Image, Text } from "@chakra-ui/react";
-// import { CardFooter } from "@chakra-ui/react";
-
 
 
 export default function Footer() {
@@ -17,16 +15,6 @@ export default function Footer() {
           
           >
 
-        {/* <Image 
-            // bgSize='100%'
-            src='./logo.jpg'
-            alt='logo'
-            position='absolute'
-            bgSize='100%'
-            // paddingTop={20}
-            // position='fixed'
-
-        /> */}
           <Box>
               <Text color="grey" fontSize='sm' align='right' mr={5}>
               Copyright &copy; 2023 EnergyOurs

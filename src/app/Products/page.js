@@ -3,7 +3,6 @@ import { Box, SimpleGrid, Text, Card, Heading, CardBody, Image, CardHeader, Card
 import Navbar from "../Navbar";
 import Footer from "../Footer";
 import CultureCard from "../Testimonial";
-import Head from "next/head";
 
 
 

@@ -40,7 +40,6 @@ export default function Teams() {
                                     </Center>
                                 <Text> Nama: {user.name.first} {user.name.last} </Text>
                                 <Text> Email: {user.email} </Text>
-                                {/* <Text> Skill:  </Text> */}
                             </Grid>
                         </SimpleGrid>
                        

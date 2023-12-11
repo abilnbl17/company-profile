@@ -1,11 +1,7 @@
-// import global from './globals.css'
-// import { Providers } from './provider';
-// import styles from './page.module.css';
 
-import { Box, Container, Text, Center, Heading, Divider, CardFooter } from '@chakra-ui/react';
+import { Box, Container, Text, Center, Heading, Divider } from '@chakra-ui/react';
 import { Image } from '@chakra-ui/react';
 import Navbar from '/src/app/Navbar';
-import SomethingEnergyOur from './Card';
 import CultureCard from './Testimonial';
 import Footer from './Footer';
 import AboutEnergyOur from './Card';

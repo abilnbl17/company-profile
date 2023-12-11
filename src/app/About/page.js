@@ -24,7 +24,6 @@ export default function AboutPage(){
                                 contributing to body balance and supporting metabolic functions. Popular among those engaged in sports, these drinks aid in performance enhancement and post-exercise recovery. 
                                 Conveniently packaged, energy drinks offer an efficient solution for sustaining stamina throughout the day. Responsible consumption is emphasized to enjoy the positive benefits without compromising health and well-being.
                     </Text>
-                    {/* <Center> */}
                     <SimpleGrid spacing={4} templateColumns='repeat(auto-fill, minmax(295px, 1fr))'>
                         <Card>
                             <CardHeader>
@@ -98,7 +97,6 @@ export default function AboutPage(){
                             </CardFooter>
                         </Card>
                     </SimpleGrid>
-                {/* </Center> */}
                 <Box>
                         <Heading align='center' mt={20}> The Owner Energy </Heading>
                     <Text mt={20} align='center' mr={5} ml={5} mb={5}>
@@ -107,7 +105,6 @@ export default function AboutPage(){
                                 innovation to the energy drink industry by offering 
                                 high-quality products that are not only refreshing but also provide an unparalleled energy boost. 
                                 Over the years, the company has experienced rapid growth and has become one of the leaders in the energy drink industry.
-                            {/* </Heading> */}
                     </Text>
                 </Box>
                 <Image 
@@ -133,7 +130,6 @@ export default function AboutPage(){
                         <Text align='center'> Inbound Marketing </Text>
                     </GridItem>
                 </Grid>
-                {/* <Divider orientation="horizontal" pt={1}/> */}
                 <Box bgColor='black'color='white' pt={10}>
                     <Heading align='center' mb={10}>
                         Teams
