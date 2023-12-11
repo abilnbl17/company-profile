@@ -28,7 +28,7 @@ export default function CompanyPage() {
 
           <Image
             src='./chris-kendall-boxing-compress.jpg'
-            alt='Testing1'
+            alt='chirs Kendall'
             
             /> 
           </Box>
