@@ -28,12 +28,14 @@ export default function CompanyPage() {
               
             </Center>
           </Box>
+          <Box>
 
           <Image
             src='./chris-kendall-boxing.png'
             alt='Chris Kendall'
-
+            
             /> 
+          </Box>
             
             <Box   
             marginBottom='2%'
