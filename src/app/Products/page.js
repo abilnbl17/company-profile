@@ -22,7 +22,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                src='/public/riot-drink.jpg'
+                                src='./riot-drink.jpg'
                                 alt='Riot Drink'
                                 />
                                 <Text> The flavor can provide a refreshing and sweet touch to the beverage </Text>

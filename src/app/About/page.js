@@ -31,8 +31,8 @@ export default function AboutPage(){
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                src='./tyler-nix-energy drinks.jpg'
-                                alt='Tyler Nix Drink'
+                                src='./riot-drink.jpg'
+                                alt='Riot Drink'
                                 />
                                 <Text> The flavor can provide a refreshing and sweet touch to the beverage </Text>
                             </CardBody>
