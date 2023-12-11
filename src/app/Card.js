@@ -21,7 +21,7 @@ export default function AboutEnergyOur (){
                 <Image 
                     objectFit='cover'
                     maxW={{ base: '100%', sm: '300px' }}
-                    src='./tyler-nix-energy drinks.jpg'
+                    src='/public/tyler-nix-energy-drinks.jpg'
                     alt='Energy Drinks'
                 
                 />
