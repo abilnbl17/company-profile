@@ -16,7 +16,7 @@ export default function CultureCard (){
                 </CardHeader>
                 <CardBody >
                     <Image 
-                        src='./joel-muniz-.png'
+                        src='./joel-muniz-.jpg'
                         alt='Joel Muniz'
                         
                     />
@@ -38,7 +38,7 @@ export default function CultureCard (){
                 </CardHeader>
                 <CardBody >
                     <Image 
-                        src='./ryoji-iwata-.png'
+                        src='./ryoji-iwata-.jpg'
                         alt='Ryoji Iwata'
                     />
                     <Text>
@@ -58,7 +58,7 @@ export default function CultureCard (){
                 </CardHeader>
                 <CardBody >
                     <Image 
-                        src='./chuttersnap-.png'
+                        src='./chuttersnap-.jpg'
                         alt='Chuttersnap'
                     />
                     <Text>

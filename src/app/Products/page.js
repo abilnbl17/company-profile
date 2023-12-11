@@ -22,7 +22,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                src='/public/tyler-nix-energy drinks.jpg'
+                                src='./tyler-nix-energy drinks.jpg'
                                 alt='Tyler Nix Drink'
                                 />
                                 <Text> The flavor can provide a refreshing and sweet touch to the beverage </Text>
@@ -68,7 +68,7 @@ export default function products() {
                             </CardHeader>
                             <CardBody>
                                 <Image 
-                                    src='/public/jan-kopriva-drink.jpg'
+                                    src='./jan-kopriva-drink.jpg'
                                     alt='Jan Kopriva'
                                 />
                                 <Text> Red Bull contains a combination of active ingredients such as caffeine, taurine, and vitamin B that work together to boost energy levels and alertness. Caffeine, as a stimulant, helps reduce drowsiness and enhances focus. </Text>
