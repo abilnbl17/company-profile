@@ -32,6 +32,7 @@ export default function CompanyPage() {
           <Image
             src='/public/chris-kendall-.png'
             alt='Chris Kendall'
+            width={'100%'}
 
             /> 
             
