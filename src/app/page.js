@@ -30,7 +30,7 @@ export default function CompanyPage() {
           </Box>
 
           <Image
-            src='/public/chris-kendall-.png'
+            src='./chris-kendall-.png'
             alt='Chris Kendall'
             width={'100%'}
 
